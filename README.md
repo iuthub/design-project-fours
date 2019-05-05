@@ -1,6 +1,9 @@
-# Internet Programming: Design Project Assignment
-
-Find `ip_design_project.pdf` file in this folder, and refer to all the instructions given there. 
-
-You have to submit your project into this repository before 05.05.2019 (midnight).
-
+## Team ostore
+## Team Members: 
+# SuxrobKhodja Sayfuddinov       U1610237
+# Timurbek Kholmuzaev            U1610240
+# Ulmasbek Rakhmatullaev         U1610244
+# Ulugbek Khamdamov              U1610245
+# Zafar Ubaydullaev              U1610254
+# Sardorbek Khalimov             U1610259
+## Link to the project report: https://github.com/iuthub/design-project-ostore/blob/master/ReportUpdated.pptx
