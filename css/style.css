@@ -1,0 +1,141 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lavender;
+}
+#load{
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	background: url(../img/loading.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+#pofile_info{
+	margin: 0;
+}
+#undecorated_link{
+	text-decoration: none;
+}
+#heading{
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0;
+}
+#warning_message{
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 4px solid darkred;
+	color: darkred;
+	background-color: red;
+	font-weight: bold;
+	border-radius: 10px;
+}
+#success_message{
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 4px solid green;
+	color: green;
+	background-color: lightgreen;
+	font-weight: bold;
+	border-radius: 10px;
+}
+#notify{
+	margin: 0;
+	padding: 0;
+}
+#teem, #member{
+	padding: 20px;
+	background-color: cadetblue;
+}
+div.member_block{
+	width: 100%;
+	overflow: auto;
+}
+#avatar{
+	vertical-align: top;
+	margin-right: 20px;
+	vertical-align: top;
+	display: inline;
+	float: left;
+}
+#teem_title{
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin-top: 0;
+}
+#name{
+	font-weight: bold;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+table th{
+	color: white;
+	background-color: black;
+}
+table td{
+	text-align: center;
+}
+table tr:nth-of-type(even){
+	background-color: whitesmoke;
+}
+table tr:nth-of-type(odd){
+	background-color: gainsboro;
+}
+
+
+/*quiz*/
+div.quiz ul{
+	margin: 0;
+	padding: 0;
+}
+div.quiz ul label{
+	display: block;
+}
+div.quiz ul li{
+	list-style: none;
+}
+#number, #question, #letter, #radio_a, #radio_b, #radio_c, #radio_d, #variant_a, #variant_b, #variant_c, #variant_d{
+	display: inline;
+}
+div.controls{
+	text-align: center;
+}
+div.controls ul{
+	padding: 0;
+}
+div.controls ul li{
+	display: inline;
+	list-style: none;
+}
+img.info_img{
+	max-width: 100%;
+    height: auto;
+}
+#a, #b, #c, #d{
+	display: block;
+}
+#results{
+	display: none;
+	overflow: auto;
+}
+#results p{
+	margin: 0;
+}
+#results_title{
+	text-align: center;
+}
+#correct, #wrong, #empty, #spent_time, #total{
+	float: right;
+}
+.footer{
+	font-size: 20px;
+	text-align: center;
+}
+.box{
+	max-width: 500px;
+	margin: 0 auto;
+}
